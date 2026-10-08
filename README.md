@@ -2,9 +2,9 @@
   <img src="assets/cover.svg" alt="ginbrooks — 把想法做成可以用的工具。Practical tools for reading and real work." width="100%">
 </picture>
 
-我在做一些从实际问题出发的小产品：把读过的内容留成能查的知识库，把反复核对的资料整理成可靠的工作流程。
+我在做一些从实际问题出发的小产品：把读过的内容留成能查的知识库，把反复核对的资料整理成可靠的流程，也把交易过程留下来认真复盘。
 
-[**打开作品集 · 直接体验两个项目**](https://ginbrooks.github.io/)
+[**打开作品集 · 直接体验三个项目**](https://ginbrooks.github.io/)
 
 ### 01 · Book Wiki Reader
 
@@ -29,6 +29,18 @@
 - 本地 Python / Streamlit / SQLite 应用；正式出单需要适配公司模板。
 
 [体验单证预检](https://ginbrooks.github.io/demos/shipping/) · [查看源码与使用边界](https://github.com/ginbrooks/shipping-document-workbench)
+
+### 03 · 交易手记
+
+**把一笔交易，从头到尾看清楚。**
+
+按完整持仓周期整理开仓、加仓和分批退出，同时保留每条成交。结合图表、费用和结构化复盘卡，记录当时的判断与下一次改进。
+
+- 持仓周期与原始成交互相对应，支持 5 分钟 / 1 小时图表。
+- 出场原因、问题标签、下次改进与明确的复盘完成状态。
+- 产品源码保留私有；公开体验独立实现，交易与行情均为合成样例，不连接账户。
+
+[体验交易复盘](https://ginbrooks.github.io/demos/trading/) · [在作品集了解项目](https://ginbrooks.github.io/#trading)
 
 ---
 
